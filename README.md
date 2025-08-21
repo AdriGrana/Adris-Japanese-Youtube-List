@@ -216,7 +216,7 @@ Makes 将棋 content. Has videos as well as long streams.
 Vtuber explaining how to do stuff in Python. Pretty cool actually.
 #### ♂[ひろゆき, hiroyuki](https://www.youtube.com/channel/UC0yQ2h4gQXmVUFWZSqlMVOA?authuser=1)
 Long podcasts about all sorts of topics I think.
-### ♀ [日本語の森](https://www.youtube.com/channel/UCVx6RFaEAg46xfAsD2zz16w?authuser=1)
+#### ♀ [日本語の森](https://www.youtube.com/channel/UCVx6RFaEAg46xfAsD2zz16w?authuser=1)
 Japanese grammar in Japanese. The JLPT vlogs are the best.
 #### ♀♂ [アニメ『銀河特急 ミルキー☆サブウェイ』公式](https://www.youtube.com/channel/UCC-14oOlJqtME7UywftsSpQ)
 Official channel where the 銀河特急 ミルキー☆サブウェイ anime gets uploaded.
@@ -292,7 +292,7 @@ Doing dumb stuff, don’t know much more.
 Ghibli enthusiast who also does vlogs and camping vlogs. Also visits ghibliesque places.
 # 音楽
 
-##### ♀ [東京事変](https://www.youtube.com/@tokyoincidentsofficial/videos)
+#### ♀ [東京事変](https://www.youtube.com/@tokyoincidentsofficial/videos)
 Official channel of 東京事変 rock band with music videos and life performances.
 # 書道
 
