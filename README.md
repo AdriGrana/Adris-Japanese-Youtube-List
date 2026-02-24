@@ -2,19 +2,7 @@
 tags:
   - youtube
 ---
-# 囲碁⚫️⚪️
-
-#### ♂♀[日本棋院囲碁チャンネル【公式】](https://www.youtube.com/channel/UCl4UWklKYTaUOZAhSJAprWQ)
-Official channel from 日本棋院 where professional matches are broadcasted
-#### ♀ [女流棋士・飛田早紀の囲碁チャンネル](https://www.youtube.com/channel/UCNaxJ8F4E93MeqznsgB1mQA?authuser=1)
-Female professional go player making mostly videos where she plays on fox and breaks down certain positions
-#### ♂ [プロ棋士 柳澤理志の囲碁教室](https://www.youtube.com/@igoYanagi)
-Very good short format (10ish minutes) explanations of 詰碁s and positions as well as tricks
-#### ♂ [JKGOチャンネル](https://www.youtube.com/channel/UCnG9LzaOYvqyTX0khYZhqiQ?authuser=1)
-Game analysis
-#### ♀ [あみーごの囲碁](https://www.youtube.com/channel/UCtXRwnIPRZZt08PRVTTP0Kg?authuser=1)
-Former idol who now started playing go and tries to become better and better. Has some content with プロ棋士柳澤理志 and also does streams and videos where she just plays some online go.
-# 旅行系✈
+# 旅行系・VLOG✈
 #### ♀ [黙食にいがた](https://www.youtube.com/channel/UCSGQtFb0oX9tobjVUF1p0rw?authuser=1)
 Long form (1h) travel vlogs around Japan. Well cut so not just raw recordings, has some info charts from the places she visits.
 #### ♀ [いけちゃん / ikechan](https://www.youtube.com/channel/UCpGJxlhKXfdOKkBhuDH6ujA?authuser=1)
@@ -122,6 +110,8 @@ Chinese Sisters who speak JP fluently and discuss some language and cultural dif
 #### ♀[ゆる言語学ラジオ](https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg?authuser=1)
 Podcast style videos where one linguist and a non linguist sit together and discuss linguistic concepts which is interesting because the linguist has to explain it in a way the non linguist will get it.
 They cover topics like は vs. が but also stuff from other langauges, so not just Japanese.
+#### ♀ [青洞書道](https://www.youtube.com/@seido-shodo/videos)
+Almost put it in the 書道 section but it fits here better. He has a lot of really interesting videos about kanji etymology and why certain outliers have the stroke order they have, or how certain kanji came to be etc. It’s very well made and he usually also shows how to draw it with a brush
 # 映画・アニメ・ドラマ🎞️
 
 #### ♂ [岡田斗司夫](https://www.youtube.com/channel/UC0FFHRF1mytLDhs6nxqGIQg?authuser=1)
@@ -182,13 +172,15 @@ Plays games. Need to look more into it.
 Plays a lot of retro games.
 #### ♂ [おついちTube](https://www.youtube.com/channel/UC6KnFuHBByTI20VENcsoNjg?authuser=1)
 Has a fantastic witcher 3 let’s play series. Nowadays he streams more I think.
+#### ♂ [みゃるりあん](https://www.youtube.com/@%E3%81%BF%E3%82%83%E3%82%8B%E3%82%8A%E3%81%82%E3%82%93/videos)
+Mainly plays Call Of Duty Zombie mode. He has videos on every map ranging from WaW, to BO1, BO2, etc. etc. Really recommended for people who played CoD Zombie Mode in the past and want to see these maps again for nostalgia. He plays the maps very thoroughly and sometimes does the easter eggs too. His videos ar 30min+ usually. No hard subs or anything, pure listening.
 # 社会
 
 #### ♂ [アットホームチャンネル](https://www.youtube.com/channel/UCbLi97OidG1-Gu8oY4_hPHQ?authuser=1)
 Very interesting videos about people in difficult sitations in life that get interviewed (like young kids who escaped from home, homeless people etc.)
 #### ♂ [アナタについて行ってイイですか?(アナつい)](https://www.youtube.com/@anatsui_vanilla/videos)
 Interviews with sex workers of various walks of life asking them why they do it and what they enjoy about it and how they got there etc.
-# ???
+# 雑多
 
 #### ♀♂ [フェルミ漫画大学](https://www.youtube.com/channel/UC9V4eJBNx_hOieGG51NZ6nA?authuser=1)
 Self help videos with visuals and speech bubbles simmilar to manga to follow along. Topics are usually taken from popular self help books. Fast speech.
@@ -224,12 +216,111 @@ Official channel where the 銀河特急 ミルキー☆サブウェイ anime get
 Women who moved to the countryside and documents her life there.
 #### ♂ [Mi2taka](https://www.youtube.com/@Mi2taka/featured)
 Really really high quality videos about doing experiments for 30 days where he learns a new skill. I love his editing it’s really really good
+#### ♂ [Watercolor by Shibasaki](https://www.youtube.com/channel/UCPiQ_mEXdEbB-3Yhiq7gq5w)
+おじいさん painting using watercolor, he usually tries to improve painting other users send in and gives feedback. His content is very chill and his voice is really はっきり (easy to understand)
+#### ♀ [ひよりの虫日記](https://www.youtube.com/channel/UCBYFb5Tynk3s7sy4KI8iJ8w)
+Really cute channel of a 虫オタク who wants to speak up for insects and goes out into the wild to find them and then explain stuff about them. The Japanese is generally simple but she uses a lot of 専門用語 for the species names etc. and these can become quite niche but it shouldn’t be an issue to follow since she explains everything. Has hardsubs. Usually 10 to 20 minutes long. She edits her videos pretty well and takes very beatiful close ups of the insects.
+#### ♂ [HoyKey 一刀両断TV](https://www.youtube.com/channel/UC1ayVmK30NzErsWze--IozA)
+Father and son duo about Japanese swords and their histories as well as blacksmithing. The father is a sword smith. Haven’t seen many videos yet so cannot say much more
+#### ♂ [ゆるコンピュータ科学ラジオ](https://www.youtube.com/@yurucom/videos)
+Same as their language channel but focused on computer science and technology instead
 # コント
 
 #### ♀♂ [マリマリマリー](https://www.youtube.com/channel/UCOnA15zQ7OafLsnN8J-CMvg?authuser=1)
 Funny skits with accompanying drawings
 #### ♀♂ [こねこフィルム](https://www.youtube.com/channel/UCKatN6slu1BFGUnZOTXSBsw?authuser=1)
 Short format live action skits
+# 性教育
+#### ♀ [さきっちょナースたき](https://www.youtube.com/channel/UCh-ui5GFGcyxV8Sn-Tj557w?authuser=1)
+Former 看護師 who very openly answers questions about sex and co. that many have but would be too emberrased to ask. Very interesting to learn the sort of vocab that might otherwise be hard to come across.
+#### ♀ [瀧本いち華の性知識アカデミー](https://www.youtube.com/channel/UCSBMQycqu57YO_pDInNhU3A)
+Topic wise similar as above but better produced. Also has hardsubs and covers many topics about sex and co. as well as dating and love
+# テクノロジー💻️
+
+#### ♀ [せろりんね](https://www.youtube.com/channel/UCxZ0BkYadR-0LtmkrHcFOvQ?authuser=1)
+Formerly did PC build and hardware videos but she stoped doing that and now might do other content if at all.
+#### ♂ [パソコン博士TAIKI](https://www.youtube.com/channel/UCYhXmcP7xSyGd5RFe15YJOg?authuser=1)
+Videos about tech, very varried as he does a lot of different stuff.
+#### ♂ [瀬戸弘司 / Koji Seto](https://www.youtube.com/channel/UCFBjsYvwX7kWUjQoW7GcJ5A?authuser=1)
+Makes tech videos in a very unique style. Both about hot topics like the new iphone as well as more obscure tech that isn’t talked much about. Very recommended.
+#### ♂ [アライ](https://www.youtube.com/@Arai_Lab/featured)
+good quality tech reviews, some 20 or 30min+ long and lots of detail
+
+# 料理👨‍🍳
+
+#### ♀ [東京カフェちゃんねる](https://www.youtube.com/channel/UC-suR0N5rb8eR4m3M5Z0elg?authuser=1)
+Goes to many different cafes and shows the food and drinks. Also has some vlog style content I believe.
+#### ♂ [池森チャンネル](https://www.youtube.com/channel/UCU314eKu4bdzW7tPEsWNLOw?authuser=1)
+Cooking videos, don’t know much more than that.
+# アイドル💃
+
+#### ♀[乃木坂配信中](https://www.youtube.com/channel/UCfvohDfHt1v5N8l3BzPRsWQ?authuser=1)
+Official 乃木坂46 channel (idol girl group)
+#### ♀[ナナブンノニジュウニ 計算外](https://www.youtube.com/channel/UChyrccBfvDafpmjNegMyo9w?authuser=1)
+22/7, other idiol girl groups official channel
+# ポッドキャスト・ラジオ
+
+#### ♀ [Podcast by Yuka Studio // ユカスタポッドキャスト](https://www.youtube.com/@by_yukastudio/videos)
+Podcasts about tech and tech news from two Japanese women located in New York. 30 to 40 min long usually.
+#### ♂ [Rebuild Podcast](https://www.youtube.com/@rebuild_fm/videos)
+Podcast about tech, usually 2 hours long
+# テレビ📺️
+
+#### ♀♂ [【公式】秘密のケンミンSHOW極](https://www.youtube.com/channel/UC8Kzy9gIkbdR6cZsnqP1Lqw?authuser=1)
+Typicall TV shows featuring street interview, special restaurants etc. it seem. Haven’t watched it yet so not sure.
+# コメディー
+
+#### ♂ [すしらーめん《りく》](https://www.youtube.com/channel/UCljYHFazflmGaDr5Lo90KmA?authuser=1)
+Doing dumb stuff, don’t know much more.
+#### ♂ [Yurié Collins](https://www.youtube.com/channel/UCOd2BHJp2gYQlG-JqbvZQzQ)
+ハーフ who does western style comedy in Japanese
+# ジブリ🎀🧹🐈‍⬛
+
+#### ♀ [太田唯YuiOhta](https://www.youtube.com/channel/UCGxJVq4KTczrAYxjjaQwL-Q?authuser=1)
+Ghibli enthusiast who also does vlogs and camping vlogs. Also visits ghibliesque places.
+# 音楽🎤
+
+#### ♀ [東京事変](https://www.youtube.com/@tokyoincidentsofficial/videos)
+Official channel of 東京事変 rock band with music videos and life performances.
+#### ♀ [椎名林檎](https://www.youtube.com/channel/UCRQX-dpFt_osBpH71ItuuvA)
+#### ♀ [アイナ・ジ・エンド Official](https://www.youtube.com/@aina_THEEND/videos)
+
+#### ♂ [spitzclips](https://www.youtube.com/channel/UCEAOVoVVtVBhcn7vLIQIkDA)
+
+# 囲碁⚫️⚪️
+
+#### ♂♀[日本棋院囲碁チャンネル【公式】](https://www.youtube.com/channel/UCl4UWklKYTaUOZAhSJAprWQ)
+Official channel from 日本棋院 where professional matches are broadcasted
+#### ♀ [女流棋士・飛田早紀の囲碁チャンネル](https://www.youtube.com/channel/UCNaxJ8F4E93MeqznsgB1mQA?authuser=1)
+Female professional go player making mostly videos where she plays on fox and breaks down certain positions
+#### ♂ [プロ棋士 柳澤理志の囲碁教室](https://www.youtube.com/@igoYanagi)
+Very good short format (10ish minutes) explanations of 詰碁s and positions as well as tricks
+#### ♂ [JKGOチャンネル](https://www.youtube.com/channel/UCnG9LzaOYvqyTX0khYZhqiQ?authuser=1)
+Game analysis
+#### ♀ [あみーごの囲碁](https://www.youtube.com/channel/UCtXRwnIPRZZt08PRVTTP0Kg?authuser=1)
+Former idol who now started playing go and tries to become better and better. Has some content with プロ棋士柳澤理志 and also does streams and videos where she just plays some online go.
+# 書道🖌
+
+#### ♀ [たけうち もちかた文字教室](https://www.youtube.com/watch?v=jYoLj4JIUks)
+Has a lot of in detail explanations focusing on small aspects such as angels, curveature and other aspects of the lines that are important to get right and shows various techniques and tricks to drawing kanji and kana beautifully. Has a lot of stuff with pen, pencil, brush etc. 
+#### ♂ [書道・篆刻尚友書道会](https://www.youtube.com/@haku2511/videos)
+Has some good explanations and demonstrations. Uses 筆ペン and 小筆 a lot.
+#### ♂ [書道家 東宮たくみ](https://www.youtube.com/channel/UCrMST-VTtx4SYr8CNJHsbnQ)
+Videos about caligraphy with brush, ballpoint pen, brush pen etc. Not that good to learn from as he doesn’t have many explanation videos but nice to copy things from.
+#### ♀ [静芳（せいほう）のYouTube書塾](https://www.youtube.com/channel/UCAcnIP_u8vDfH0_0Z07WbKw)
+Very good for getting into 書道・習字. She has a lot of explanations with great demonstrations
+#### ♀ [ゆめふで美文字チャンネル](https://www.youtube.com/@yumefude/videos)
+Similar to the above but not as well produced and informative I feel like but I haven’t watched enough to say for sure
+#### ♂ [岩井憲之　書道・ペン筆ペン・Calligraphy　続編・応用編](https://www.youtube.com/channel/UCLIsfAZpbDCwOcKQCRA7M0w)
+This is more for reference or to copy from rather than learn though he does explain stuff too especially in his longer form videos. He has also videos where he just practises by copying 五言絶句 and sometimes gives some explanations on what to pay attention too. He does 楷書、行書、篆書 etc.
+#### ♀ [書と水墨のある暮らし / 根本みき](https://www.youtube.com/@miki.nemoto/videos)
+Calligrapher who does it for a living and shows the process of how to create something for a clients. Her vlogs are edited very well and its interesting to see how much drafts she has to go through to arrive at the final product
+# スポーツ🏃
+#### ♂ [福田豊のビリヤード実況チャンネル](https://www.youtube.com/@%E7%A6%8F%E7%94%B0%E8%B1%8A%E3%81%AE%E3%83%93%E3%83%AA%E3%83%A4%E3%83%BC%E3%83%89%E5%AE%9F%E6%B3%81%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D/featured)
+Billiards (mostly 9 and 8 ball) comentary. Seems like one of the few billiard commentaries that can be found in Japanese
+# ニュース
+
+#### ♂♀ [FNNプライムオンライン](https://www.youtube.com/@FNNnewsCH/videos)
 # VTuber
 
 #### ♀ [Subaru Ch. 大空スバル](https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA?authuser=1)
@@ -249,60 +340,3 @@ Short format live action skits
 #### ♀ [Pekora Ch. 兎田ぺこら](https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ?authuser=1)
 
 #### ♀ [ホロライブ速報【切り抜きch】](https://www.youtube.com/channel/UCLVQAHfmh0KRIXv3oCAeiHA?authuser=1)
-
-# 性教育
-#### ♀ [さきっちょナースたき](https://www.youtube.com/channel/UCh-ui5GFGcyxV8Sn-Tj557w?authuser=1)
-Former 看護師 who very openly answers questions about sex and co. that many have but would be too emberrased to ask. Very interesting to learn the sort of vocab that might otherwise be hard to come across.
-# テクノロジー
-
-#### ♀ [せろりんね](https://www.youtube.com/channel/UCxZ0BkYadR-0LtmkrHcFOvQ?authuser=1)
-Formerly did PC build and hardware videos but she stoped doing that and now might do other content if at all.
-#### ♂ [パソコン博士TAIKI](https://www.youtube.com/channel/UCYhXmcP7xSyGd5RFe15YJOg?authuser=1)
-Videos about tech, very varried as he does a lot of different stuff.
-#### ♂ [瀬戸弘司 / Koji Seto](https://www.youtube.com/channel/UCFBjsYvwX7kWUjQoW7GcJ5A?authuser=1)
-Makes tech videos in a very unique style. Both about hot topics like the new iphone as well as more obscure tech that isn’t talked much about. Very recommended.
-#### ♂ [アライ](https://www.youtube.com/@Arai_Lab/featured)
-good quality tech reviews, some 20 or 30min+ long and lots of detail
-
-# 料理
-
-#### ♀ [東京カフェちゃんねる](https://www.youtube.com/channel/UC-suR0N5rb8eR4m3M5Z0elg?authuser=1)
-Goes to many different cafes and shows the food and drinks. Also has some vlog style content I believe.
-#### ♂ [池森チャンネル](https://www.youtube.com/channel/UCU314eKu4bdzW7tPEsWNLOw?authuser=1)
-Cooking videos, don’t know much more than that.
-# アイドル
-
-#### ♀[乃木坂配信中](https://www.youtube.com/channel/UCfvohDfHt1v5N8l3BzPRsWQ?authuser=1)
-Official 乃木坂46 channel (idol girl group)
-#### ♀[ナナブンノニジュウニ 計算外](https://www.youtube.com/channel/UChyrccBfvDafpmjNegMyo9w?authuser=1)
-22/7, other idiol girl groups official channel
-# テレビ
-
-#### ♀♂ [【公式】秘密のケンミンSHOW極](https://www.youtube.com/channel/UC8Kzy9gIkbdR6cZsnqP1Lqw?authuser=1)
-Typicall TV shows featuring street interview, special restaurants etc. it seem. Haven’t watched it yet so not sure.
-# コメディー
-
-#### ♂ [すしらーめん《りく》](https://www.youtube.com/channel/UCljYHFazflmGaDr5Lo90KmA?authuser=1)
-Doing dumb stuff, don’t know much more.
-#### ♂ [Yurié Collins](https://www.youtube.com/channel/UCOd2BHJp2gYQlG-JqbvZQzQ)
-ハーフ who does western style comedy in Japanese
-# ジブリ
-
-#### ♀ [太田唯YuiOhta](https://www.youtube.com/channel/UCGxJVq4KTczrAYxjjaQwL-Q?authuser=1)
-Ghibli enthusiast who also does vlogs and camping vlogs. Also visits ghibliesque places.
-# 音楽
-
-#### ♀ [東京事変](https://www.youtube.com/@tokyoincidentsofficial/videos)
-Official channel of 東京事変 rock band with music videos and life performances.
-# 書道
-
-#### ♂ [書道家 東宮たくみ](https://www.youtube.com/channel/UCrMST-VTtx4SYr8CNJHsbnQ)
-Videos about caligraphy with brush, ballpoint pen, brush pen etc. Not that good to learn from as he doesn’t have many explanation videos but nice to copy things from.
-#### ♀ [静芳（せいほう）のYouTube書塾](https://www.youtube.com/channel/UCAcnIP_u8vDfH0_0Z07WbKw)
-Very good for getting into 書道・習字. She has a lot of explanations with great demonstrations
-#### ♀ [ゆめふで美文字チャンネル](https://www.youtube.com/@yumefude/videos)
-Similar to the above but not as well produced and informative I feel like but I haven’t watched enough to say for sure
-
-# スポーツ
-#### ♂ [福田豊のビリヤード実況チャンネル](https://www.youtube.com/@%E7%A6%8F%E7%94%B0%E8%B1%8A%E3%81%AE%E3%83%93%E3%83%AA%E3%83%A4%E3%83%BC%E3%83%89%E5%AE%9F%E6%B3%81%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D/featured)
-Billiards (mostly 9 and 8 ball) comentary. Seems like one of the few billiard commentaries that can be found in Japanese
