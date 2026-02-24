@@ -172,8 +172,8 @@ Mainly plays Call Of Duty Zombie mode. He has videos on every map ranging from W
 
 #### ♂ [アットホームチャンネル](https://www.youtube.com/channel/UCbLi97OidG1-Gu8oY4_hPHQ?authuser=1)
 Very interesting videos about people in difficult sitations in life that get interviewed (like young kids who escaped from home, homeless people etc.)
-#### ♂ [アナタについて行ってイイですか?(アナつい)](https://www.youtube.com/@anatsui_vanilla/videos)
-Interviews with sex workers of various walks of life asking them why they do it and what they enjoy about it and how they got there etc.
+#### ♂ [アナタについて行ってイイですか?(アナつい)](https://www.youtube.com/@anatsui_vanilla/videos) ✕
+Channel got deleted it seems, what a shame. Interviews with sex workers of various walks of life asking them why they do it and what they enjoy about it and how they got there etc.
 # 雑多
 
 #### ♀♂ [フェルミ漫画大学](https://www.youtube.com/channel/UC9V4eJBNx_hOieGG51NZ6nA?authuser=1)
