@@ -86,12 +86,6 @@ Interesting videos about random sciency topics in pretty simple terms. Content i
 Sciency topics, rather short videos in the 10min range. They answer interesting questions from varrious topics.
 #### ♂ [予備校のノリで学ぶ「大学の数学・物理」](https://www.youtube.com/channel/UCqmWJJolqAgjIdLqK3zD1QQ?authuser=1)
 University maths but in Japanese. Videos centering around math and popular math problems. Good for math terminology in JP.
-#### ♀ [食堂あさごはん](https://www.youtube.com/channel/UCvFqPP4f-inG-cE0zDD9WpA?authuser=1)
-Makes cooking videos. Need to look more into it.
-#### ♂ [料理人　設楽の料理道場](https://www.youtube.com/channel/UCMhGl8uNwLp2-X3EN16uhoA?authuser=1)
-Actuall professional cook. I think he only does 和食 if I remember right. Need to look more into it as well.
-#### ♂ [飲食店独立学校 /こうせい校長](https://www.youtube.com/channel/UC_IE1NN9hk4eJbGbad-4LGg?authuser=1)
-Makes cooking videos. Need to look more into it.
 #### ♂ [世界をわかりやすく – Kurzgesagt](https://www.youtube.com/channel/UCzw2KK537iRgsrYnWaEMs8Q?authuser=1)
 In a Nutshell but in Japanese!
 #### ♀ [はるあん](https://www.youtube.com/channel/UCiMq2YMvF47o7K4FIZxkjFw?authuser=1)
@@ -252,6 +246,12 @@ good quality tech reviews, some 20 or 30min+ long and lots of detail
 Goes to many different cafes and shows the food and drinks. Also has some vlog style content I believe.
 #### ♂ [池森チャンネル](https://www.youtube.com/channel/UCU314eKu4bdzW7tPEsWNLOw?authuser=1)
 Cooking videos, don’t know much more than that.
+#### ♀ [食堂あさごはん](https://www.youtube.com/channel/UCvFqPP4f-inG-cE0zDD9WpA?authuser=1)
+Makes cooking videos. Need to look more into it.
+#### ♂ [料理人　設楽の料理道場](https://www.youtube.com/channel/UCMhGl8uNwLp2-X3EN16uhoA?authuser=1)
+Actuall professional cook. I think he only does 和食 if I remember right. Need to look more into it as well.
+#### ♂ [飲食店独立学校 /こうせい校長](https://www.youtube.com/channel/UC_IE1NN9hk4eJbGbad-4LGg?authuser=1)
+Makes cooking videos. Need to look more into it.
 # アイドル💃
 
 #### ♀[乃木坂配信中](https://www.youtube.com/channel/UCfvohDfHt1v5N8l3BzPRsWQ?authuser=1)
